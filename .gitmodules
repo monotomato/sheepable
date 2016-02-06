@@ -1,0 +1,6 @@
+[submodule "sheepable-engine"]
+	path = sheepable-engine
+	url = git@github.com:monotomato/sheepable-engine.git
+[submodule "sheepable-electron"]
+	path = sheepable-electron
+	url = git@github.com:monotomato/sheepable-electron.git
