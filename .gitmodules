@@ -1,9 +1,12 @@
 [submodule "sheepable-engine"]
 	path = sheepable-engine
 	url = git@github.com:monotomato/sheepable-engine.git
+	branch = master
 [submodule "sheepable-electron"]
 	path = sheepable-electron
 	url = git@github.com:monotomato/sheepable-electron.git
+	branch = master
 [submodule "sheepable-game"]
 	path = sheepable-game
 	url = git@github.com:monotomato/sheepable-game.git
+	branch = master
