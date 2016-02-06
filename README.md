@@ -9,7 +9,7 @@ This project works as a base for sheepable development. Engine, game and electro
 ### Enviroment setup ###
 * Get submodules
 ``` Bash
-$ git submodule update --init --recursive
+$ ./init.sh
 ```
 ### Scripts ###
 * Build game and engine
