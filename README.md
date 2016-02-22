@@ -39,7 +39,7 @@ $ ./init.sh
 ### Submodules ###
 * [Sheepable Engine](https://github.com/monotomato/sheepable-engine)
 * [Sheepable Electron](https://github.com/monotomato/sheepable-electron)
-* [Sheepable Game](https://github.com/monotomato/sheepable-electron)
+* [Sheepable Game](https://github.com/monotomato/sheepable-game)
 
 ## Technologies ##
 * [Scala.js](http://www.scala-js.org/) - [docs](http:://www.scala-js.org/doc/)
